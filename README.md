@@ -21,3 +21,12 @@
 8. **Test & Predict** – Send sample emails to get spam/safe predictions.  
 9. **Update Data** – Add new emails and retrain as needed.
 
+##
+**Dependencies**
+  - Python 3.11+
+  - Flask
+  - PyTorch (or torch-cpu)
+  - scikit-learn
+  - pandas
+  - transformers
+
